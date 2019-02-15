@@ -1,5 +1,6 @@
 #### Submission
 For the code portion, you will just submit `ekf.py` to gradescope. Make sure that you submit the most up-to-date one.
+Don't forget to also submit your written portion as well.
 
 
 <!-- ### Submission Instructions
