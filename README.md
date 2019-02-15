@@ -1,4 +1,8 @@
-### Submission Instructions
+#### Submission
+For the code portion, you will just submit `ekf.py` to gradescope. Make sure that you submit the most up-to-date one.
+
+
+<!-- ### Submission Instructions
 
 #### Submission
 The submission script will look for `ekf.py`, `ExtractLines.py`, and `maze_sim_parameters.py` in your catkin workspace (i.e., at `~/catkin_ws/src/asl_turtlebot/scripts`) instead of this directory as we suspect that's where your most updated versions of those files are located. Please ensure that this is the case.
@@ -9,4 +13,4 @@ Though there was no explicit written component to this problem set, if you have 
 
 To download the submission script, open this directory (i.e., `.../AA274_HW3/`) in your terminal and run `git pull` at the command line. Then:
 
-Run `./submit_hw3.sh` and follow the instructions to submit!
+Run `./submit_hw3.sh` and follow the instructions to submit! -->
